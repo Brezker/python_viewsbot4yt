@@ -9,6 +9,7 @@ while(0==0):
     webbrowser.open("https://www.youtube.com/watch?v=6HLIOeGSdUY&t=1s", new=1, autoraise=False)
     webbrowser.open("https://www.youtube.com/watch?v=oUmEsN6muCc&t=113s", new=1, autoraise=False)
     webbrowser.open("https://www.youtube.com/watch?v=hdxiH4Co4qc&t=66s", new=1, autoraise=False)
+    #webbrowser.open("Your YT video URL", new=1, autoraise=False)
 
     time.sleep(200)
 
